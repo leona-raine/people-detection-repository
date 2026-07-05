@@ -28,9 +28,11 @@ The dataset contains annotated images for person detection in YOLO format, with 
 
 The dataset contains images of people divided into three subsets:
 
-- Train
-- Validation
-- Test
+- Train (760imgs to 21imgs)
+- Validation (15210imgs to 101imgs)
+- Test (1431imgs to 21 imgs)
+
+All are reduced due to high maintenance workload of cpu.
 
 The original annotations were stored in CSV format and converted into COCO JSON format before training.
 
