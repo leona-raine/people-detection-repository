@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+
+outputs/
+predictions/
+
+dataset/
+dataset_small/
+
+*.pth
+*.pt
