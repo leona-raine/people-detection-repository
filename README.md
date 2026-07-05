@@ -17,6 +17,15 @@ The project includes:
 
 ## Dataset
 
+This project uses the **People Detection Dataset** created by **Adil Shamim** on Kaggle.
+
+**Dataset:** :contentReference[oaicite:0]{index=0}
+
+**Author:** Adil Shamim
+
+**Description:**
+The dataset contains annotated images for person detection in YOLO format, with predefined training, validation, and test splits. It was created using Roboflow and is intended for training object detection models such as RF-DETR, YOLO, and other deep learning architectures. :contentReference[oaicite:1]{index=1}
+
 The dataset contains images of people divided into three subsets:
 
 - Train
